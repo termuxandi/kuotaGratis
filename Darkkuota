@@ -26,7 +26,7 @@ echo $pu"▂ ▃ ▄ ▅ ▆ ▇ █ █4G" $me"Telkomsel"
 echo
 echo
 echo $ku"gunakan No :(63xxxxx)"
-read -p "|___--->✓ : pilih : " pil :
+read -p "|___--->✓ : pilih : " pil
 echo "L SEDANG MEMPROSES"
 sleep 1
 echo "LOADING.......10%"
